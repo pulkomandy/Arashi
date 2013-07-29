@@ -1,0 +1,1 @@
+void SaveGameF();void LoadGameF();
